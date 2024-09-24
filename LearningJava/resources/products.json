@@ -1,0 +1,22 @@
+[
+  {
+    "name":"Apple",
+    "price":2.50
+  },
+  {
+    "name":"Banana",
+    "price":1.50
+  },
+  {
+    "name":"Chocolate milk",
+    "price":3.00
+  },
+  {
+    "name":"Water",
+    "price":1.00
+  },
+  {
+    "name":"Fork",
+    "price":2.30
+  }
+]
