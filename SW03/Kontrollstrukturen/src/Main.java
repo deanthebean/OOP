@@ -1,6 +1,12 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        IteratorExercise iteratorExercise = new IteratorExercise();
+        //iteratorExercise.PrintNumbersFor();
+        //iteratorExercise.PrintNumbersWhile();
+        //iteratorExercise.PrintNumbersDoWhile();
+        //iteratorExercise.FloatWhileIterator();
+        //iteratorExercise.FloatForIterator();
+        iteratorExercise.PrintBox(10, 4);
     }
 
     public int max (int a, int b){
