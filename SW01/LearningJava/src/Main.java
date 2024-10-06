@@ -21,7 +21,9 @@ public class Main {
             e.printStackTrace();
         }*/
 
-        inv.PrintAvailableProducts();
+        //inv.PrintAvailableProducts();
+        int input = 0;
+        System.out.println("test: " + (input = 5));
 
     }
 }
