@@ -1,5 +1,6 @@
 package ch.hslu.science;
 
+
 public class Temperature {
 
     public Temperature() {
